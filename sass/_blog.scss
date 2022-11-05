@@ -1,0 +1,29 @@
+.blog
+{
+    img
+    {
+        object-fit: cover;
+    }
+    
+    .col-md-5
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        h2
+        {
+            font-family: Cormorant Garamond, serif;
+            color: #333333;
+            font-size: 34px;
+            font-weight: 100;
+            line-height: 1.4;
+            letter-spacing: 0em;
+            fill: #333333;
+            word-wrap: break-word;
+        }
+    }
+
+    
+}
